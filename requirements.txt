@@ -5,3 +5,4 @@ camelot-py[cv]
 pdfplumber
 PyPDF2
 openpyxl
+openjdk-8-jre-headless
